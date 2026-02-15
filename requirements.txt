@@ -1,0 +1,20 @@
+python-dotenv
+pandas
+numpy 
+pymongo
+certifi
+pymongo[srv]
+scikit-learn
+scipy
+pyyaml
+dill
+mlflow
+xgboost
+fastapi
+uvicorn
+ipykernel 
+apache-airflow 
+dvc
+python-multipart
+Jinja2
+-e .
