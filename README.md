@@ -1362,17 +1362,6 @@ in the Software without restriction...
 
 ---
 
-## 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/network-security-url-detector?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/network-security-url-detector?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/network-security-url-detector?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/network-security-url-detector)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/network-security-url-detector)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/network-security-url-detector)
-
----
-
 <div align="center">
 
 **⭐ Star this repository if you find it helpful!**
