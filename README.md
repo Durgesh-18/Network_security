@@ -1307,28 +1307,6 @@ in the Software without restriction...
 - **Apache Airflow**: Workflow orchestration platform
 - **MLflow**: ML lifecycle management platform
 
----
-
-## 📞 Contact & Support
-
-### Maintainer
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-### Project Links
-- **Repository**: [GitHub](https://github.com/yourusername/network-security-url-detector)
-- **Issues**: [Report Bug](https://github.com/yourusername/network-security-url-detector/issues)
-- **Discussions**: [Ask Questions](https://github.com/yourusername/network-security-url-detector/discussions)
-
-### Getting Help
-- Check [Documentation](#-table-of-contents)
-- Review [Troubleshooting](#-troubleshooting) section
-- Search existing [Issues](https://github.com/yourusername/network-security-url-detector/issues)
-- Join our community discussions
-
----
 
 ## 🗺️ Roadmap
 
